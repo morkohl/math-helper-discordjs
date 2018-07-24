@@ -6,7 +6,7 @@ const fs = require('fs');
 const regex = /math/i;
 
 client.on('ready', () => {
-    console.log("ready to fuck up volcas shit!");
+    console.log("ready to fuck up someones shit!");
 });
 
 client.on('message', msg => {
